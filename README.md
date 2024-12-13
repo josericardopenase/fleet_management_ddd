@@ -1,8 +1,4 @@
-El archivo README.md del repositorio `josericardopenase/fleet_management_ddd` actualmente solo contiene un título básico.
 
-Para completar el README.md con la descripción completa, aquí tienes un esquema sugerido:
-
-```markdown
 # FleetManager
 
 ## Descripción
@@ -113,4 +109,4 @@ Las contribuciones son bienvenidas. Por favor, sigue los siguientes pasos:
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
+
